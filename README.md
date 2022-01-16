@@ -1,2 +1,3 @@
 # git-flow-test
-Git Flow 연습하기
+
+v0.1.0 출시
